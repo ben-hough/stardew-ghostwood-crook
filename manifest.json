@@ -1,0 +1,11 @@
+{
+  "Name": "Ghostwood Crook",
+  "Author": "MrGlim",
+  "Version": "1.0.0",
+  "Description": "Adds the Ghostwood Crook, a shepherd's staff that lets you build invisible phantom fences which stop farm animals and pets but let farmers walk straight through.",
+  "UniqueID": "MrGlim.GhostwoodCrook",
+  "EntryDll": "GhostwoodCrook.dll",
+  "MinimumApiVersion": "4.0.0",
+  "MinimumGameVersion": "1.6.0",
+  "UpdateKeys": [ "Nexus:52912" ]
+}

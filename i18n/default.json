@@ -1,0 +1,32 @@
+{
+  "item.name": "Ghostwood Crook",
+  "item.description": "A shepherd's crook carved from pale ghostwood. Livestock heed the fences it draws, though no one else can see them.",
+  "recipe.name": "Ghostwood Crook",
+
+  "message.too-far": "That's too far away to reach with the crook.",
+  "message.no-host-mod": "The host doesn't have Ghostwood Crook installed, so phantom fences can't be changed.",
+  "message.limit": "This area can't hold any more phantom fence.",
+  "message.overlay-on": "Phantom fences: always visible",
+  "message.overlay-off": "Phantom fences: only visible with the Ghostwood Crook",
+
+  "config.section.shop": "Shop & Crafting",
+  "config.price.name": "Marnie's price",
+  "config.price.desc": "Gold price of the Ghostwood Crook at Marnie's Ranch. Set to 0 to remove it from the shop.",
+  "config.recipe-enabled.name": "Enable crafting recipe",
+  "config.recipe-enabled.desc": "Adds a crafting recipe for the crook (learned automatically). Takes effect after returning to title or next day.",
+  "config.recipe-ingredients.name": "Recipe ingredients",
+  "config.recipe-ingredients.desc": "Ingredient list in game format: item ID, count, item ID, count... (e.g. '709 10 769 5' = 10 Hardwood + 5 Void Essence).",
+  "config.section.use": "Using the crook",
+  "config.range.name": "Reach (tiles)",
+  "config.range.desc": "How many tiles away from the farmer you can place or remove phantom fence (1 = adjacent tiles, like tools).",
+  "config.drag.name": "Drag to paint",
+  "config.drag.desc": "Hold the use-tool button and move to paint (or erase) a line of phantom fence.",
+  "config.section.display": "Display",
+  "config.opacity.name": "Overlay opacity",
+  "config.opacity.desc": "How visible the ghostly fence overlay is while holding the crook.",
+  "config.toggle.name": "Always-show toggle key",
+  "config.toggle.desc": "Toggles showing phantom fences even when you're not holding the crook.",
+  "config.section.behavior": "Behavior",
+  "config.pets.name": "Blocks pets",
+  "config.pets.desc": "Whether phantom fences also stop cats, dogs, and other pets (host setting)."
+}
