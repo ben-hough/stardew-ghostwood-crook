@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/stardew-mods/tree/main/GhostwoodCrook. This repo is archived and read-only; full history was preserved there.
+
 # Ghostwood Crook
 
 *A Stardew Valley 1.6 SMAPI mod by MrGlim* — `MrGlim.GhostwoodCrook` v1.0.0
